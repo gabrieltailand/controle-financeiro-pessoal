@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Cartões & Finanças",
+  "description": "Sistema completo para controle de gastos de cartões de crédito e despesas à vista, sincronizado diretamente em planilha do Google Drive e Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
